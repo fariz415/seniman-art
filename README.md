@@ -1,2 +1,1 @@
-# seniman-art
-test pi app
+test
